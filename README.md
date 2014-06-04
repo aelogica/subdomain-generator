@@ -1,4 +1,4 @@
 subdomain-generator
 ===================
 
-<adjective>-<animal_name>-<natural_number>
+[adjective]-[animal_name]-[natural_number]
